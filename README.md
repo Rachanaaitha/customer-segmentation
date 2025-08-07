@@ -9,7 +9,7 @@ This project performs customer segmentation using K-Means clustering based on:
 ##  Files Included
 - `customer_data.csv` – Sample customer dataset (100 entries)
 - `task3_notebook.ipynb` – Jupyter Notebook with full implementation
-- `elbow_plot.png`, `cluster_plot.png` – Visualizations
+
 - `README.md` – Project details
 
 ## Insights
